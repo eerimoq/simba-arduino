@@ -47,7 +47,7 @@
           },
           "url": "https://raw.githubusercontent.com/eerimoq/simba-arduino/master/sam/simba-arduino-sam-0.7.0.zip",
 	  "archiveFileName": "simba-arduino-sam-0.7.0.zip",
-	  "checksum": "SHA-256:69c58e32ec2810ec404db13cd8515506b049e5ce41bd7cbda09c7ec73a34b427",
+	  "checksum": "SHA-256:86ea79f7eed61ffbec2b310baf8fc771cbc5c4db64419c480f546671a63aa901",
 	  "size": "343667",
           "boards": [
 	      {"name" : "Arduino Due"}
