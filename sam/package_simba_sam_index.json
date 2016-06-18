@@ -64,6 +64,34 @@
               "version": "1.6.1-arduino"
             }
           ]
+        },
+        {
+          "name": "Simba",
+          "architecture": "sam",
+          "version": "1.0.0",
+          "category": "Simba",
+          "help": {
+            "online": "https://simba-os.readthedocs.org"
+          },
+          "url": "https://raw.githubusercontent.com/eerimoq/simba-arduino/master/sam/simba-arduino-sam-1.0.0.zip",
+	  "archiveFileName": "simba-arduino-sam-1.0.0.zip",
+	  "checksum": "SHA-256:cc52dd62051a94c192ea19a483e6fb623dc062b97caa5fc2befad2cca8e2a9a3",
+	  "size": "343667",
+          "boards": [
+	      {"name" : "Arduino Due"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "4.8.3-2014q1"
+            },
+            {
+              "packager": "arduino",
+              "name": "bossac",
+              "version": "1.6.1-arduino"
+            }
+          ]
         }
       ],
       "tools": [
